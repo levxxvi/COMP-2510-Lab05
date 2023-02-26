@@ -1,0 +1,3 @@
+/Users/alexandrawong/Documents/BCIT 2023 Term 2/COMP 2510 Procedural Programming/Lab/Lab05/cmake-build-debug/CMakeFiles/Lab05.dir
+/Users/alexandrawong/Documents/BCIT 2023 Term 2/COMP 2510 Procedural Programming/Lab/Lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexandrawong/Documents/BCIT 2023 Term 2/COMP 2510 Procedural Programming/Lab/Lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
